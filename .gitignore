@@ -1,0 +1,11 @@
+.pio/
+.vscode/
+.DS_Store
+
+# Local private settings. Copy include/user_config.example.h to this file.
+include/user_config.h
+
+# Build artifacts
+*.bin
+*.elf
+*.map
